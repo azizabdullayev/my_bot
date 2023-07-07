@@ -1,1 +1,1 @@
-# my_bot
+# electronic_shop_bot
